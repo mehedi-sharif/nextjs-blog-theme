@@ -1,0 +1,10 @@
+{
+  "media": {
+    "root": "pages",
+    "public": "images"
+  },
+  "content": {
+    "root": "posts"
+  },
+  "themeConfig": []
+}
